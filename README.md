@@ -33,6 +33,11 @@
   </a> 
 </p>
 
+
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=austinandrade&layout=compact&theme=dark&hide_border=true)
+
+![Austin's Stats](https://github-readme-stats.vercel.app/api?username=austinandrade&show_icons=true&hide_border=true&theme=dark)
+
 <h2 align="center">📫 Reach me on</h2>
 <p align="center">
   <a target="_blank"href="https://www.linkedin.com/in/austinandrade/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
