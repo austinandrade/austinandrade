@@ -6,7 +6,7 @@
 
 <br>
 <p> 
-  I'm a software engineer who develops with compassion for other developers and the experience of the end user. I enjoy working with Ruby & Ruby on Rails to develop RESTful web applications following TDD, MVC, DRY, and Agile methodologies. My passion for video games led me to persue a career in software development, learned at the Turing School of Software and Design. I admire companies that support the LGBTQ+ and BIPOC communities.
+  I'm a software engineer who develops with compassion for other developers and the experience of the end-user. I enjoy working with Ruby & Ruby on Rails to create RESTful web applications following TDD, MVC, DRY, and Agile methodologies. My passion for video games led me to pursue a career in software development, learned at the Turing School of Software and Design. I admire companies that support the LGBTQ+ and BIPOC communities.
 </p>
 
 <h3 align="left">Tools & Technologies:</h3>
